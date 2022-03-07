@@ -1,0 +1,39 @@
+-------1.Üyenin Bilgileri--------
+Adý : Merve
+Soyadý : Yilmaz
+Telefon : 123
+Cinsiyet : Kadýn
+Boy : 170.0
+Kilo : 55.0
+Yas : 20
+Tarih : 18.01.2019
+Kayýt Süresi : 1 Aylýk
+Antreman Programý : Kardiyo Programý
+#################################
+
+-------2.Üyenin Bilgileri--------
+Adý : Hüseyin
+Soyadý : Kumaþ
+Telefon : 987
+Cinsiyet : Erkek
+Boy : 177.0
+Kilo : 70.0
+Yas : 25
+Tarih : 01.01.0101
+Kayýt Süresi : 3 Aylýk
+Antreman Programý : Kas Programý
+#################################
+
+-------3.Üyenin Bilgileri--------
+Adý : User
+Soyadý : Admin
+Telefon : 333 333 33 33
+Cinsiyet : Kadýn
+Boy : 180.0
+Kilo : 90.0
+Yas : 33
+Tarih : 05.05.2019
+Kayýt Süresi : 2 Aylýk
+Antreman Programý : Zayýflama Programý
+#################################
+

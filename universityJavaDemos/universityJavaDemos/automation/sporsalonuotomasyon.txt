@@ -1,0 +1,26 @@
+-------ÜYE BÝLGÝLERÝ-------
+Adý : 2
+Soyadý : 2
+Telefon : 2
+Cinsiyet : Erkek
+Boy : 2.0
+Kilo : 2.0
+Yas : 2
+Tarih : 2
+Kayýt Süresi : 2 Aylýk
+Antreman Programý : Kardiyo Programý
+#################################
+
+-------ÜYE BÝLGÝLERÝ-------
+Adý : 2
+Soyadý : 2
+Telefon : 2
+Cinsiyet : Erkek
+Boy : 2.0
+Kilo : 2.0
+Yas : 2
+Tarih : 2
+Kayýt Süresi : 2 Aylýk
+Antreman Programý : Kardiyo Programý
+#################################
+
